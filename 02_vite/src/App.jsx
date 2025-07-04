@@ -18,8 +18,6 @@ function App() {
     if(counter>0){
       counter--;
       setCounter(counter);
-      
-
     }
     
   };
