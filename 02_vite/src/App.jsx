@@ -27,12 +27,14 @@ function App() {
     <>
       <h1>Learn react | Suman Roy</h1>
       <br />
+      <h1> this is counter game </h1>
       <h2>Counter Value : {counter}</h2>
       <h2>{counter}</h2>
 
       <button onClick={clicked}>Add Value</button>
       <br /><br />
       <button onClick={remove}>Remove Value</button>
+
     </>
   );
 }
