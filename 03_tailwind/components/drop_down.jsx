@@ -9,7 +9,7 @@ function Drop_down(props) {
   const { Name, myob, myArr } = props;
   const {name,year}=myob;
 
-console.log(props.name, props.myob, props.myArr);
+
 
   return (
     <>
